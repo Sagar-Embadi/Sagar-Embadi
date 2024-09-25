@@ -25,7 +25,7 @@ Currently, I’m focused on:
 Feel free to reach out if you'd like to connect or collaborate:
 - Email: sagarembadi7@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sagar-embadi/
-- Twitter: @SagarEmbadi
+- Twitter: https://x.com/EmbadiSagar
 
 Thanks for visiting my profile! Looking forward to connecting with fellow developers and learning together! 😊
 
